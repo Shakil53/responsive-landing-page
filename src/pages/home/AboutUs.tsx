@@ -7,6 +7,7 @@ const AboutUs = () => {
             <h1>This is About us Section</h1>
         </Container>
     );
-};
+}
 
 export default AboutUs;
+
